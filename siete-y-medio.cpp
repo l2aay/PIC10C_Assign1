@@ -7,6 +7,8 @@
 #include "cards.h"
 using namespace std;
 
+cout << "Vim test. Practicing to use vim.";
+
 // Global constants (if any)
 
 
