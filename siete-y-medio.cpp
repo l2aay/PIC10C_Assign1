@@ -16,7 +16,7 @@ cout << "Pic10c is pretty fun.";
 // The third cout statement has incorrect syntax.
 cout << "Vim test. Practicing to use vim.";
 cout << "\n I was told that I will not be graded on the performance of the program\n";
-cout >> ", rather on my performance using git. :)";
+cout << ", rather on my performance using git. :)";
 
 
 // Global constants (if any)
