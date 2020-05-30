@@ -18,7 +18,7 @@ cout << "Vim test. Practicing to use vim.";
 cout << "\n I was told that I will not be graded on the performance of the program\n";
 cout << ", rather on my performance using git. :)";
 
-
+cout << "Now all I need is like 5 more commits";
 // Global constants (if any)
 
 
