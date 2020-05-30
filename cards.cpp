@@ -183,6 +183,10 @@ bool Card::operator < (Card card2) const {
    return rank < card2.rank;
 }
 
+bool function()
+   return true;{
+}
+
 
 
 /* *************************************************

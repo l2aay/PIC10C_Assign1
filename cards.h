@@ -13,6 +13,8 @@
 
 using namespace std;
 
+bool function();
+
 enum suit_t {OROS, COPAS, ESPADAS, BASTOS};
 
    /*
