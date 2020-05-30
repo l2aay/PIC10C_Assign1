@@ -19,6 +19,7 @@ cout << "\n I was told that I will not be graded on the performance of the progr
 cout << ", rather on my performance using git. :)";
 
 cout << "Now all I need is like 5 more commits";
+cout << "More cout statements!"
 // Global constants (if any)
 
 
